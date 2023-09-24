@@ -1,0 +1,27 @@
+.dashBoard{
+    display: flex;
+    /* align-items: center; */
+    width: 100%;
+    background-color: #e8e8e8;
+    height: 80vh;
+}
+.dashBoard-items{
+
+    padding: 5px;
+    width: 50%;
+}
+.item-1{
+    width: 40%;
+}
+.item-2{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    position: relative;
+    top: 20px;
+}
+/* .item-2-01{
+    position: absolute;
+    top: 85px;
+    right: 2px;
+} */
